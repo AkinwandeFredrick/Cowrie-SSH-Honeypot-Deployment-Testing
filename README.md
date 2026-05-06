@@ -26,6 +26,10 @@ A reconnaissance scan from a Kali Linux machine confirmed the honeypot is operat
 | Emulated Service       | OpenSSH 9.2p1 Debian 2+deb12u3             |
 | Operating System       | Linux (Debian emulation)                   |
 
+## Screenshots
+
+![Cowrie Honeypot Incident Report](Screenshot%20(97).png)
+
 ## Scan Summary
 
 **Tool:** Nmap 7.99  
